@@ -1,6 +1,9 @@
 {
-  "person": {
-    "name": "Terry",
-    "age" : 10
+  "station" : {
+      "name" : "冬山風車站",
+      "city": "宜蘭縣",
+      "address" : "宜蘭縣冬山鄉中正路展南一巷12號(冬山火車站旁)",
+      "latitude" : 24.636874,
+      "longitude" : 121.791558,
   }
 }
